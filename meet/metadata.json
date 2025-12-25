@@ -1,0 +1,8 @@
+{
+  "name": "Civic Lens",
+  "description": "Turn civic problems into official complaints using AI. Generate formal letters for road, drainage, and sanitation issues.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
